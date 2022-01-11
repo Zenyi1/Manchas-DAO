@@ -4,7 +4,8 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
+  background-color: rgb(13, 73, 141);
+  background-image: url("mountain.jpg");
   color: #fff;
   overflow-x: hidden;
 }
